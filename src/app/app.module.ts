@@ -23,7 +23,8 @@ import { AppRoutingModule } from './app-routing.module';
     NavComponent,
     SportsNavComponent,
     HomepageComponent,
-    LoginComponent
+    LoginComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
